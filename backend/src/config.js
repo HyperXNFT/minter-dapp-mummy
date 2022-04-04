@@ -22,9 +22,9 @@ const layerConfigurations = [
       { name: "Eyes" },
       { name: "Headress" },
       { name: "Earrings" },
+      { name: "Clothes" },
       { name: "Pet" },
       { name: "Mouth" },
-      { name: "Clothes" },
 
     ],
   },
