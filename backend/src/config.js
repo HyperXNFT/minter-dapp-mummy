@@ -20,11 +20,11 @@ const layerConfigurations = [
       { name: "Bandage" },
       { name: "Skin" },
       { name: "Eyes" },
+      { name: "Headress" },
       { name: "Pet" },
       { name: "Mouth" },
       { name: "Clothes" },
       { name: "Earrings" },
-      { name: "Headress" },
 
     ],
   },
