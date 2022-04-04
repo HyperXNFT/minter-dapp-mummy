@@ -19,7 +19,6 @@ const layerConfigurations = [
       { name: "Background" },
       { name: "Bandage" },
       { name: "Skin" },
-      { name: "Face Accessories" },
       { name: "Eyes" },
       { name: "Pet" },
       { name: "Mouth" },
